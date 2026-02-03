@@ -14,7 +14,7 @@ export default function About() {
       <div className="about-content grid md:grid-cols-2 gap-8 items-start">
         <div className="about-text text-justify">
           <p>
-            With over 8 years of experience in graphic design and creative direction, I work with innovative brands to bring their visions to life through thoughtful, impactful design. My approach blends contemporary trends with timeless aesthetic principles to create visuals that resonate.
+            My name is Niña Mitzi F. Romero, with over 8 years of experience in graphic design and creative direction, I work with innovative brands to bring their visions to life through thoughtful, impactful design. My approach blends contemporary trends with timeless aesthetic principles to create visuals that resonate.
           </p>
           <p>
             Alongside my creative expertise, I’m a 5-star customer service representative known for clear communication, responsiveness, and a client-first mindset. I pride myself on building strong relationships, understanding client needs, and delivering seamless experiences from concept to completion.
