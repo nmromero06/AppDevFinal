@@ -29,9 +29,9 @@ export default function Contact() {
   }
 
   const contactMethods = [
-    { icon: Mail, label: 'Email', value: 'mitzi@example.com', href: 'mailto:mitzi@example.com' },
-    { icon: Phone, label: 'Phone', value: '+1 (555) 123-4567', href: 'tel:+15551234567' },
-    { icon: MapPin, label: 'Location', value: 'Creative Studio • USA', href: '#' }
+    { icon: Mail, label: 'Email', value: 'nmitzir@gmail.com', href: 'mailto:nmitzir@gmail.com' },
+    { icon: Phone, label: 'Phone', value: '+63 993 329 4493', href: 'tel:+639933294493' },
+    { icon: MapPin, label: 'Location', value: 'Creative Studio | Philippines', href: '#' }
   ]
 
   const socialLinks = [
