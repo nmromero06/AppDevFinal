@@ -10,8 +10,7 @@ export default function SocialPosts() {
     <section className="social-posts px-6 py-12">
       <h2 className="section-title text-left">Social Media Highlights</h2>
       <p className="section-subtitle text-left">Latest creative content from my social channels</p>
-      
-      <div className="social-grid grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4">
+       <div className="social-grid grid grid-cols-2 gap-4 md:grid-cols-4">
         {posts.map(post => (
           <div key={post.id} className="social-card">
             <img src={post.image} alt={`Social post ${post.id}`} />
